@@ -6,4 +6,4 @@
 
 ## Landing Page :
 #### here is the company logo:
-eishaa: ![alt text](https://github.com/dhanwanthkumar/eishaa-prototype2/blob/main/images/landing.png "logo - eishaa communications")
+eishaa: ![alt text](https://github.com/dhanwanthkumar/eishaa-prototype2/blob/master/images/landing.png "logo - eishaa communications")
